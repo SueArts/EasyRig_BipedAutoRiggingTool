@@ -34,7 +34,8 @@ Loading will take a bit as it imports PyMel core.
 
 Execution code:
 cmds.sk_biped_EasyRig()
----------------------------------------------------------------------
+
 Script Version:
+---------------------------------------------------------------------
 
 Copy paste the script into the Python Script Editor and excecute Code
